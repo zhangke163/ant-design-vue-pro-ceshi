@@ -34,3 +34,4 @@ npm run test:unit
 ### tag v1.6 axios 封装结束
 ### tag v1.7 基础表单验证和提交
 ### tag v1.8 表单的初始赋值和自动校验
+### tag v1.9 增加分布式表单
