@@ -30,6 +30,12 @@ Vue.use(Select);
 Vue.component("Authorized", Authorized);
 Vue.use(Auth);
 
+const IconFont = Icon.createFromIconfontCN({
+  scriptUrl: "//at.alicdn.com/t/font_1435380_uj823bo92sk.js" // 在 iconfont.cn 上生成
+});
+
+Vue.component("IconFont", IconFont);
+
 new Vue({
   router,
   store,
