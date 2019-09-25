@@ -30,7 +30,6 @@ npm run lint
 npm run test:unit
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-tag v1.6 axios 封装结束
-tag v1.3 mock数据结束
+### tag v1.3 mock数据结束
+### tag v1.6 axios 封装结束
+### tag v1.7 基础表单验证和提交
